@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hi there, I'm Dr. Ewe Win Eng 👋
 
-<!--
-**winengewe/winengewe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Energy Data Scientist | Renewable Energy Systems Modeller | PhD Researcher**
 
-Here are some ideas to get you started:
+I am a Glasgow-based researcher transitioning into **Data Science and AI**. With a PhD in Renewable Energy, I specialize in bridging the gap between theoretical physics and commercial application through **predictive modelling**, **simulation**, and **machine learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Subsurface Thermal Energy Storage simulations (STEaM Project)**.
+- 🐍 I use **Python and MATLAB** to optimize energy efficiency and reduce LCOH.
+- ⚡ I’m looking to collaborate on **Energy Data Analysis and Decarbonization AI projects**.
+- 🇬🇧 **Status:** Global Talent Visa Holder (No Sponsorship Required).
+
+---
+
+### 🛠 Tech Stack & Tools
+
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn), MATLAB
+* **Domain:** Energy Systems Modelling, Thermodynamics, Optimization Algorithms
+* **Visualization:** PowerBI, Matplotlib, Advanced Excel
+* **Research:** Experiment Design, Technical Writing, Scenario Analysis
+
+---
+
+### 📊 Key Projects & Research
+
+* **STEaM Project:** Developed Python/MATLAB simulations to forecast thermal behavior in subsurface storage, optimizing management strategies for sustainability.
+* **PVT Solar Collector Optimization:** Designed algorithms to analyze experimental data, resulting in a **30% increase** in renewable energy capture.
+* **Energy Efficiency Modelling:** Created predictive models to identify operational improvements and reduce energy losses in industrial sectors.
+
+---
+
+### 📫 Connect with Me
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/dr-ewe-win-eng-b942571a6/)
+[<img src='https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white' />](https://www.researchgate.net/profile/Ewe-Win-Eng)
