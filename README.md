@@ -31,4 +31,4 @@ I am a Glasgow-based researcher transitioning into **Data Science and AI**. With
 ### 📫 Connect with Me
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/dr-ewe-win-eng-ph-d-b942571a6/)
-[<img src='https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white' />](https://www.researchgate.net/profile/Ewe-Win-Eng)
+[<img src='https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white' />](https://www.researchgate.net/profile/Win-Eng-Ewe)
