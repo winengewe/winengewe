@@ -33,3 +33,6 @@ I am a Glasgow-based researcher transitioning into **Data Science and AI**. With
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/dr-ewe-win-eng-ph-d-b942571a6/)
 [<img src='https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white' />](https://www.researchgate.net/profile/Win-Eng-Ewe)
 [<img src='https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white' />](https://scholar.google.com/citations?user=O1De6b8AAAAJ&hl)
+[<img src='https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white' />](mailto:engwinewe@gmail.com)
+[<img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/dr-ewe-win-eng-ph-d-b942571a6/)
+
