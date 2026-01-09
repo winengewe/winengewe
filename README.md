@@ -7,25 +7,8 @@ I am a Glasgow-based researcher transitioning into **Data Science and AI**. With
 - 🔭 I’m currently working on **Subsurface Thermal Energy Storage simulations (STEaM Project)**.
 - 🐍 I use **Python and MATLAB** to optimize energy efficiency and reduce LCOH.
 - ⚡ I’m looking to collaborate on **Energy Data Analysis and Decarbonization AI projects**.
-- 🇬🇧 **Status:** Global Talent Visa Holder (No Sponsorship Required).
 
 ---
-
-### 🛠 Tech Stack & Tools
-
-* **Languages:** Python (Pandas, NumPy, Scikit-Learn), MATLAB
-* **Domain:** Energy Systems Modelling, Thermodynamics, Optimization Algorithms
-* **Visualization:** PowerBI, Matplotlib, Advanced Excel
-* **Research:** Experiment Design, Technical Writing, Scenario Analysis
-
----
-
-### 📊 Key Projects & Research
-
-* **STEaM Project:** Developed Python/MATLAB simulations to forecast thermal behavior in subsurface storage, optimizing management strategies for sustainability.
-* **PVT Solar Collector Optimization:** Designed algorithms to analyze experimental data, resulting in a **30% increase** in renewable energy capture.
-* **Energy Efficiency Modelling:** Created predictive models to identify operational improvements and reduce energy losses in industrial sectors.
-
 
 ---
 
@@ -41,7 +24,7 @@ I am a **Glasgow-based Ph.D. Researcher** and **Data Scientist** bridging the ga
 - 🔭 **Currently working on:** Integrating **Deep Learning** with Subsurface Thermal Energy Storage (STEaM) simulations to predict long-term thermal behavior.
 - ⚡ **Core Expertise:** Renewable Energy Systems, Thermodynamics, Systems Modelling, and Predictive Analytics.
 - 👯 **Looking to collaborate on:** AI-driven energy decarbonization projects and predictive maintenance models.
-- 🇬🇧 **Status:** Global Talent Visa Holder (UK).
+- 🇬🇧 **Status:** Global Talent Visa Holder (No Visa Sponsorship Required for UK work)
 
 ---
 
@@ -83,3 +66,38 @@ I am a **Glasgow-based Ph.D. Researcher** and **Data Scientist** bridging the ga
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/dr-ewe-win-eng-ph-d-b942571a6/)
 [<img src='https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white' />](https://www.researchgate.net/profile/Win-Eng-Ewe)
 [<img src='https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white' />](https://scholar.google.com/citations?user=O1De6b8AAAAJ&hl)
+
+
+# Hi, I'm Dr. Ewe Win Eng 👋
+
+### AI & Data Scientist | Deep Learning Specialist
+I apply **Deep Learning** and **Physics-Informed Machine Learning** to solve complex energy challenges. My focus is on Time-Series Forecasting and System Optimization.
+
+---
+
+### 🧠 Machine Learning Portfolio
+
+#### 1. [STEaM-Deep-Learning-Forecasting](https://github.com/winengewe/YOUR-REPO-NAME)
+*Predicting subsurface thermal behavior using Long Short-Term Memory (LSTM) networks.*
+- **Problem:** Legacy physical simulations were computationally expensive for long-term forecasting.
+- **Solution:** Built a TensorFlow LSTM model to predict temperature fluctuations based on historical training data.
+- **Tech:** `Python` `TensorFlow` `Keras` `Pandas`
+- **Results:** Reduced prediction time by 90% compared to numerical simulation.
+
+#### 2. [PVT-System-Optimization](https://github.com/winengewe/YOUR-REPO-NAME)
+*Data-driven optimization of Photovoltaic-Thermal collectors.*
+- **Tech:** `MATLAB` `Genetic Algorithms` `Data Visualization`
+- **Outcome:** Identified configurations yielding 30% higher energy capture.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Domain | Tools & Frameworks |
+| :--- | :--- |
+| **Machine Learning** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikit-learn&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) |
+| **Visualization** | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?logo=matplotlib&logoColor=black) ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black) |
+
+---
+*Global Talent Visa Holder (UK) | Open to Data Science & ML Opportunities*
