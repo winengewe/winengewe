@@ -68,42 +68,6 @@ I am a **Glasgow-based Ph.D. Researcher** and **Data Scientist** bridging the ga
 [<img src='https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white' />](https://scholar.google.com/citations?user=O1De6b8AAAAJ&hl)
 
 
-# Hi, I'm Dr. Ewe Win Eng 👋
-
-### AI & Data Scientist | Deep Learning Specialist
-I apply **Deep Learning** and **Physics-Informed Machine Learning** to solve complex energy challenges. My focus is on Time-Series Forecasting and System Optimization.
-
----
-
-### 🧠 Machine Learning Portfolio
-
-#### 1. [STEaM-Deep-Learning-Forecasting](https://github.com/winengewe/YOUR-REPO-NAME)
-*Predicting subsurface thermal behavior using Long Short-Term Memory (LSTM) networks.*
-- **Problem:** Legacy physical simulations were computationally expensive for long-term forecasting.
-- **Solution:** Built a TensorFlow LSTM model to predict temperature fluctuations based on historical training data.
-- **Tech:** `Python` `TensorFlow` `Keras` `Pandas`
-- **Results:** Reduced prediction time by 90% compared to numerical simulation.
-
-#### 2. [PVT-System-Optimization](https://github.com/winengewe/YOUR-REPO-NAME)
-*Data-driven optimization of Photovoltaic-Thermal collectors.*
-- **Tech:** `MATLAB` `Genetic Algorithms` `Data Visualization`
-- **Outcome:** Identified configurations yielding 30% higher energy capture.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-| Domain | Tools & Frameworks |
-| :--- | :--- |
-| **Machine Learning** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikit-learn&logoColor=white) |
-| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) |
-| **Visualization** | ![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?logo=matplotlib&logoColor=black) ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black) |
-
----
-*Global Talent Visa Holder (UK) | Open to Data Science & ML Opportunities*
-
----
-
 # Hi there, I'm Dr. Ewe Win Eng 👋
 
 [![Email](https://img.shields.io/badge/Email-engwinewe%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:engwinewe@gmail.com)
@@ -139,4 +103,31 @@ I am a **Glasgow-based Ph.D. Researcher** and **Data Scientist** bridging the ga
 - **The Result:** Identified configurations yielding **30% higher energy capture**.
 - **Stack:** `MATLAB` `Optimization Algorithms` `Data Visualization`
 
-#### 3. [NHS-Covid19-Modelling](
+#### 3. [NHS-Covid19-Modelling](https://github.com/winengewe/YOUR-REPO-NAME-HERE)
+*Predictive modeling for public health resources.*
+- **The Work:** Utilized data science techniques to model patient intake trends during the pandemic for the Scottish Government.
+- **Stack:** `Python` `Data Science` `Scikit-Learn`
+
+---
+
+### 🛠️ Technical Skills
+
+| Domain | Tools & Frameworks |
+| :--- | :--- |
+| **Machine Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat&logo=mathworks&logoColor=white) |
+| **Research Domain** | `Thermodynamics` `Renewable Energy` `Experiment Design` `Technical Writing` |
+
+---
+
+### 📈 Contribution Stats
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winengewe&theme=minimal&hide_border=true" alt="streak stats" />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=winengewe&show_icons=true&count_private=true&theme=minimal&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winengewe&layout=compact&count_private=true&theme=minimal&hide_border=true" height="150" alt="languages graph" />
+</div>
