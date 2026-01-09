@@ -177,7 +177,7 @@ I am a **Glasgow-based Ph.D. Researcher** and **Data Scientist** bridging the ga
 
 # Hi there, I'm Dr. Ewe Win Eng 👋
 
-[![Resume](https://img.shields.io/badge/Download_CV-PDF-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/winengewe/winengewe/blob/main/Dr_Win_Eng_CV.pdf)
+[![Resume](https://img.shields.io/badge/Download_CV-PDF-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/winengewe/winengewe/blob/main/EweWinEng_CV.pdf)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engwinewe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-ewe-win-eng-ph-d-b942571a6/)
 [![Global Talent Visa](https://img.shields.io/badge/Visa_Status-UK_Global_Talent_(No_Sponsorship_Required)-2ea44f?style=for-the-badge)](https://github.com/winengewe)
