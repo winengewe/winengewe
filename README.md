@@ -106,8 +106,9 @@ I apply **Deep Learning** and **Physics-Informed Machine Learning** to solve com
 
 # Hi there, I'm Dr. Ewe Win Eng 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dr-ewe-win-eng-ph-d-b942571a6/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow_Research-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Win-Eng-Ewe)
+[![Email](https://img.shields.io/badge/Email-engwinewe%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:engwinewe@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dr-ewe-win-eng-ph-d-b942571a6/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Win-Eng-Ewe)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=O1De6b8AAAAJ&hl)
 [![Global Talent Visa](https://img.shields.io/badge/UK_Global_Talent_Visa-Holder-informational?style=flat&color=blueviolet)](https://github.com/winengewe)
 
@@ -138,35 +139,4 @@ I am a **Glasgow-based Ph.D. Researcher** and **Data Scientist** bridging the ga
 - **The Result:** Identified configurations yielding **30% higher energy capture**.
 - **Stack:** `MATLAB` `Optimization Algorithms` `Data Visualization`
 
-#### 3. [NHS-Covid19-Modelling](https://github.com/winengewe/YOUR-REPO-NAME-HERE)
-*Predictive modeling for public health resources.*
-- **The Work:** Utilized data science techniques to model patient intake trends during the pandemic for the Scottish Government.
-- **Stack:** `Python` `Data Science` `Scikit-Learn`
-
----
-
-### 🛠️ Technical Skills
-
-| Domain | Tools & Frameworks |
-| :--- | :--- |
-| **Machine Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) |
-| **Data Science** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat&logo=mathworks&logoColor=white) |
-| **Research Domain** | `Thermodynamics` `Renewable Energy` `Experiment Design` `Technical Writing` |
-
----
-
-### 📈 Contribution Stats
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winengewe&theme=minimal&hide_border=true" alt="streak stats" />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=winengewe&show_icons=true&count_private=true&theme=minimal&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winengewe&layout=compact&count_private=true&theme=minimal&hide_border=true" height="150" alt="languages graph" />
-</div>
-
----
-[<img src='https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white' />](mailto:engwinewe@gmail.com)
-
+#### 3. [NHS-Covid19-Modelling](
