@@ -230,17 +230,7 @@ I am a **Data Scientist & Machine Learning Specialist** transitioning from advan
 | **Soft Skills** | `Technical Writing` `Stakeholder Management` `Complex Problem Solving` |
 
 ---
-
-### 📈 Coding Activity
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winengewe&theme=minimal&hide_border=true" alt="streak stats" />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=winengewe&show_icons=true&count_private=true&theme=minimal&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winengewe&layout=compact&count_private=true&theme=minimal&hide_border=true" height="150" alt="languages graph" />
-</div>
-
+### 📫 Connect with Me
 ---
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Win-Eng-Ewe)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=O1De6b8AAAAJ&hl)
