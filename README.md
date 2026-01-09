@@ -91,7 +91,7 @@ I am a **Glasgow-based Ph.D. Researcher** and **Data Scientist** bridging the ga
 
 ### 🧠 Machine Learning Portfolio
 
-#### 1. [STEaM-Deep-Learning-Forecasting](https://github.com/winengewe/YOUR-REPO-NAME-HERE)
+#### 1. [STEaM-Deep-Learning-Forecasting](https://github.com/winengewe/STEaM)
 *Predicting subsurface thermal behavior using Long Short-Term Memory (LSTM) networks.*
 - **The Problem:** Legacy physical simulations were computationally expensive for long-term forecasting.
 - **The Solution:** Built a **TensorFlow LSTM model** to predict temperature fluctuations based on historical training data.
@@ -105,7 +105,7 @@ I am a **Glasgow-based Ph.D. Researcher** and **Data Scientist** bridging the ga
 - **The Result:** Identified configurations yielding **30% higher energy capture**.
 - **Stack:** `MATLAB` `Optimization Algorithms` `Data Visualization`
 
-#### 3. [NHS-Covid19-Modelling](https://github.com/winengewe/YOUR-REPO-NAME-HERE)
+#### 3. [NHS-Covid19-Modelling](https://github.com/winengewe/NHS-Covid19-Modelling)
 *Predictive modeling for public health resources.*
 - **The Work:** Utilized data science techniques to model patient intake trends during the pandemic for the Scottish Government.
 - **Stack:** `Python` `Data Science` `Scikit-Learn`
