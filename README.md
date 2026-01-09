@@ -231,6 +231,5 @@ I am a **Data Scientist & Machine Learning Specialist** transitioning from advan
 
 ---
 ### 📫 Connect with Me
----
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Win-Eng-Ewe)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=O1De6b8AAAAJ&hl)
