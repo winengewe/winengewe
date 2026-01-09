@@ -174,16 +174,3 @@ I am a **Glasgow-based Ph.D. Researcher** and **Data Scientist** bridging the ga
 | **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-77ACF1?style=flat&logo=seaborn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) |
 | **Dev Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=Jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) |
 | **Research Domain** | `Thermodynamics` `Renewable Energy` `Technical Writing` `Experiment Design` |
-
----
-
-### 📈 Contribution Stats
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winengewe&theme=minimal&hide_border=true" alt="streak stats" />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=winengewe&show_icons=true&count_private=true&theme=minimal&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winengewe&layout=compact&count_private=true&theme=minimal&hide_border=true" height="150" alt="languages graph" />
-</div>
