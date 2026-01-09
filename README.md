@@ -29,24 +29,6 @@ I am a Glasgow-based researcher transitioning into **Data Science and AI**. With
 
 ---
 
-
-# Hi there, I'm Dr. Ewe Win Eng 👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dr-ewe-win-eng-ph-d-b942571a6/)
-[![Global Talent Visa](https://img.shields.io/badge/UK_Global_Talent_Visa-Holder-informational?style=flat-square&color=blueviolet)](https://github.com/winengewe)
-
-### Energy Data Scientist | Deep Learning & Renewable Systems Specialist
-
-I am a **Glasgow-based Ph.D. Researcher** and **Data Scientist** bridging the gap between theoretical physics and commercial AI applications. My work focuses on optimizing renewable energy systems (STEaM, PVT) using advanced simulation and **Deep Learning** workflows.
-
-- 🔭 **Currently working on:** Integrating **Deep Learning** with Subsurface Thermal Energy Storage (STEaM) simulations to predict long-term thermal behavior.
-- ⚡ **Core Expertise:** Renewable Energy Systems, Thermodynamics, Systems Modelling, and Predictive Analytics.
-- 👯 **Looking to collaborate on:** AI-driven energy decarbonization projects and predictive maintenance models.
-- 🇬🇧 **Status:** Global Talent Visa Holder (UK).
-
-
-
-
 # Hi there, I'm Dr. Ewe Win Eng 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dr-ewe-win-eng-ph-d-b942571a6/)
