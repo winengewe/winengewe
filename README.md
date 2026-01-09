@@ -70,6 +70,8 @@ I am a **Glasgow-based Ph.D. Researcher** and **Data Scientist** bridging the ga
 
 # Hi there, I'm Dr. Ewe Win Eng 👋
 
+### 📫 Connect with Me
+
 [![Email](https://img.shields.io/badge/Email-engwinewe%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:engwinewe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dr-ewe-win-eng-ph-d-b942571a6/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Win-Eng-Ewe)
@@ -118,16 +120,3 @@ I am a **Glasgow-based Ph.D. Researcher** and **Data Scientist** bridging the ga
 | **Data Science** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) |
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat&logo=mathworks&logoColor=white) |
 | **Research Domain** | `Thermodynamics` `Renewable Energy` `Experiment Design` `Technical Writing` |
-
----
-
-### 📈 Contribution Stats
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winengewe&theme=minimal&hide_border=true" alt="streak stats" />
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=winengewe&show_icons=true&count_private=true&theme=minimal&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winengewe&layout=compact&count_private=true&theme=minimal&hide_border=true" height="150" alt="languages graph" />
-</div>
