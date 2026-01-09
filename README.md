@@ -96,3 +96,58 @@ I am a **Glasgow-based Ph.D. Researcher** and **Data Scientist** bridging the ga
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' />](https://www.linkedin.com/in/dr-ewe-win-eng-ph-d-b942571a6/)
 [<img src='https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white' />](https://www.researchgate.net/profile/Win-Eng-Ewe)
 [<img src='https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white' />](https://scholar.google.com/citations?user=O1De6b8AAAAJ&hl)
+
+
+# Hi there, I'm Dr. Ewe Win Eng 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dr-ewe-win-eng-ph-d-b942571a6/)
+[![Global Talent Visa](https://img.shields.io/badge/UK_Global_Talent_Visa-Holder-informational?style=flat-square&color=blueviolet)](https://github.com/winengewe)
+
+### Energy Data Scientist | Deep Learning & Renewable Systems Specialist
+
+I am a **Glasgow-based Ph.D. Researcher** and **Data Scientist** bridging the gap between theoretical physics and commercial AI applications. My work focuses on optimizing renewable energy systems (STEaM, PVT) using advanced simulation and **Deep Learning** workflows.
+
+- 🔭 **Currently working on:** Integrating **Deep Learning** with Subsurface Thermal Energy Storage (STEaM) simulations to predict long-term thermal behavior.
+- ⚡ **Core Expertise:** Renewable Energy Systems, Thermodynamics, Systems Modelling, and Predictive Analytics.
+- 👯 **Looking to collaborate on:** AI-driven energy decarbonization projects and predictive maintenance models.
+- 🇬🇧 **Status:** Global Talent Visa Holder (UK).
+
+---
+
+### 🛠️ Technical Skills
+
+**Languages & Frameworks**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=flat&logo=mathworks&logoColor=white)
+
+**Visualization**
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+
+**Domain & Research**
+- ⚡ **Domain:** Energy Systems Modelling, Thermodynamics, Optimization Algorithms
+- 🔬 **Research:** Experiment Design, Technical Writing, Scenario Analysis
+
+---
+
+### 📊 Key Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **STEaM Project** | **Subsurface Thermal Energy Storage:** Forecasting thermal behavior in legacy mine shafts. Now integrating **Deep Learning (TensorFlow)** to improve prediction accuracy for long-term storage cycles. | `Python` `TensorFlow` `Thermodynamics` |
+| **PVT Optimization** | **Solar Collector Analysis:** Designed algorithms that achieved a 30% increase in renewable energy capture through rigorous experimental data analysis. | `MATLAB` `Data Modelling` |
+| **NHS ICU Prediction** | **Covid-19 Modelling:** Utilized data science techniques to model patient intake trends during the pandemic for the Scottish Government. | `Python` `Data Science` |
+
+---
+
+### 📈 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=winengewe&show_icons=true&theme=minimal&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winengewe&layout=compact&theme=minimal&hide_border=true" height="150" alt="languages graph"  />
+</div>
