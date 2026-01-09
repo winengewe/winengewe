@@ -147,7 +147,15 @@ I am a **Glasgow-based Ph.D. Researcher** and **Data Scientist** bridging the ga
 
 ### 📈 GitHub Stats
 
+---
+### 📈 GitHub Stats
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=winengewe&show_icons=true&theme=minimal&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winengewe&layout=compact&theme=minimal&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=winengewe&show_icons=true&count_private=true&theme=minimal&hide_border=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winengewe&layout=compact&count_private=true&theme=minimal&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winengewe&theme=minimal&hide_border=true" alt="streak stats" />
 </div>
