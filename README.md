@@ -144,12 +144,4 @@ I am a **Glasgow-based Ph.D. Researcher** and **Data Scientist** bridging the ga
 | **NHS ICU Prediction** | **Covid-19 Modelling:** Utilized data science techniques to model patient intake trends during the pandemic for the Scottish Government. | `Python` `Data Science` |
 
 ---
-### 📈 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winengewe&theme=minimal&hide_border=true" alt="streak stats" />
-</div>
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=winengewe&theme=flat&no-frame=true&column=6&margin-w=15&margin-h=15" />
-</div>
