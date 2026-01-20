@@ -1,5 +1,5 @@
 # Hi there, I'm Dr. Ewe Win Eng, Ph.D 👋
-[![Resume](https://img.shields.io/badge/Download_CV-PDF-FF0000?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/winengewe/winengewe/blob/main/Resume%20-%20Ewe%20Win%20Eng.pdf.pdf)
+[![Resume](https://img.shields.io/badge/Download_CV-PDF-FF0000?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/winengewe/winengewe/blob/main/Resume%20-%20Ewe%20Win%20Eng.pdf)
 [![Email](https://img.shields.io/badge/Email-engwinewe%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:engwinewe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dr-ewe-win-eng-ph-d-b942571a6/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Follow-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Win-Eng-Ewe)
