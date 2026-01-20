@@ -34,7 +34,7 @@ I am a **Glasgow-based Ph.D. Researcher** and **Data Scientist** bridging the ga
 ---
 ### 📊 Featured Projects (Portfolio)
 
-#### 1. [STEaM: Deep Learning for Energy Forecasting](https://github.com/winengewe/YOUR-REPO-NAME-HERE)
+#### 1. [STEaM: Deep Learning for Energy Forecasting](https://github.com/winengewe/STEaM-MSTES-Model)
 *Industry Application: Predictive Maintenance & Energy Grid Optimization*
 - **The Challenge:** Predicting heat retention in subsurface storage was too slow using traditional physics engines.
 - **The Solution:** Developed a **TensorFlow LSTM (Recurrent Neural Network)** to learn from historical sensor data.
@@ -48,14 +48,14 @@ I am a **Glasgow-based Ph.D. Researcher** and **Data Scientist** bridging the ga
 - **The Impact:** Identified a configuration that increased energy capture by **30%**.
 - **Stack:** `MATLAB` `Optimization` `Data Visualization`
 
-#### 3. [Diamond Price Prediction: Deep ResNet-MLP](https://github.com/winengewe/YOUR-REPO-NAME-HERE)
+#### 3. [Diamond Price Prediction: Deep ResNet-MLP](https://github.com/winengewe/diamond-price-resnet)
 *Industry Application: Automated Valuation & Pricing Engines*
 - **The Challenge:** Traditional linear models failed to capture complex non-linear interactions between categorical attributes (cut, clarity) and price for accurate valuation.
 - **The Solution:** Engineered a custom ResNet-MLP (Deep Learning) architecture using TensorFlow/Keras, implementing residual skip connections and Log-Norm target engineering to stabilize gradients.
 - **The Impact:** Delivered a production-ready pipeline capable of real-time price inference, targeting an accuracy of R² > 0.95.
 - **Stack:** `TensorFlow` `Keras` `Pandas` `Scikit-Learn` `ResNet`
   
-#### 3. [NHS Covid-19 Demand Modelling](https://github.com/winengewe/YOUR-REPO-NAME-HERE)
+#### 4. [NHS Covid-19 Demand Modelling](https://github.com/winengewe/Covid19-ICU-Prediction-Analysis)
 *Industry Application: Healthcare Analytics & Resource Planning*
 - **The Challenge:** The Scottish Government needed rapid projections of ICU bed usage.
 - **The Solution:** Applied statistical modelling to patient intake data to forecast demand spikes.
