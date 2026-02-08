@@ -36,12 +36,12 @@ I am a **Glasgow-based Ph.D. Researcher** and **Data Scientist** bridging the ga
 ---
 ### 📊 Featured Projects (Portfolio)
 
-#### 1. [STEaM: Deep Learning for Energy Forecasting](https://github.com/winengewe/STEaM-MSTES-Model)
-*Industry Application: Predictive Maintenance & Energy Grid Optimization*
-- **The Challenge:** Predicting heat retention in subsurface storage was too slow using traditional physics engines.
-- **The Solution:** Developed a **TensorFlow LSTM (Recurrent Neural Network)** to learn from historical sensor data.
-- **The Impact:** Reduced simulation runtime by **90%**, enabling real-time decision-making for energy storage.
-- **Stack:** `Python` `TensorFlow` `Keras` `Pandas` `Google Colab`
+#### 1. [STEaM: Mine Shaft Thermal Energy Storage Simulation](https://github.com/winengewe/STEaM-MSTES-Model)
+*Industry Application: Renewable Energy Grid Balancing & Techno-Economic Modelling*
+- **The Challenge:** De-risking the conversion of legacy mine shafts into GigaWatt-hour thermal storage required complex modeling to validate feasibility and grid balancing potential.
+- **The Solution:** Engineered a **Python-based finite volume simulation engine** (`shaftstore_1d_0i.py`) to model thermodynamic stratification and heat diffusion, integrating control logic for Heat Pump and CHP systems.
+- **The Impact:** Generated critical **Levelized Cost of Heat (LCOH)** and **COP** metrics, providing the validation needed to repurpose industrial liabilities into renewable energy assets.
+- **Stack:** `Python` `NumPy` `Pandas` `SciPy` `Matplotlib` `Finite Volume Method`
 
 #### 2. [PVT Optimization: Genetic Algorithms](https://github.com/winengewe/YOUR-REPO-NAME-HERE)
 *Industry Application: System Efficiency Improvement*
