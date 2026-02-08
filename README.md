@@ -43,8 +43,8 @@ I am a **Ph.D. Researcher** and **Data Scientist** bridging the gap between theo
 
 #### 3. [NHS Covid-19 Demand Modelling](https://github.com/winengewe/Covid19-ICU-Prediction-Analysis)
 **Public Sector Healthcare Analytics**
-* **The Scope:** Rapid statistical modelling of patient intake data to forecast ICU demand spikes for the **Scottish Government**.
-* **The Impact:** Direct support for public health resource allocation.
+* **The Scope:** Analyzed official NHS Scotland open data to model ICU bed usage during critical demand spikes..
+* **The Impact:** Developed a statistical framework for patient intake projection, demonstrating how data-driven insights support public health resource allocation.
 * **Tech:** `Python` `Scikit-Learn` `Predictive Modelling`
 
 ---
