@@ -4,14 +4,14 @@
 [![Email](https://img.shields.io/badge/Email-engwinewe%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:engwinewe@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dr-ewe-win-eng-ph-d-b942571a6/)
 
-### ⚛️ Data Scientist | Deep Learning & Renewable Systems Specialist
+### ⚛️ Data Scientist | Quantitative Researcher | Renewable Systems Specialist
 **Based in Glasgow, UK 🇬🇧**
 
-I am a **Ph.D. Researcher** and **Data Scientist** bridging the gap between theoretical physics and commercial AI applications. My work focuses on **Physics-Informed Machine Learning**, utilizing **TensorFlow** to solve complex challenges in Energy and Healthcare.
+I am a **Ph.D. Researcher** and **Data Scientist** bridging the gap between theoretical physics and commercial AI applications. My work focuses on **Physics-Informed Machine Learning**, utilizing **TensorFlow** and **Python** to solve complex challenges in Energy Systems and Predictive Analytics.
 
-* 🔭 **Current Focus:** Deep Learning for Subsurface Thermal Energy Storage (STEaM) & Predictive Analytics.
 * 💼 **Visa Status:** **UK Global Talent Visa Holder** (Eligible to work immediately, no sponsorship required).
-* 🚀 **Core Competencies:** Time-Series Forecasting, Techno-Economic Modelling, and Python Development.
+* 🔭 **Current Focus:** Deep Learning for Time-Series Forecasting & Techno-Economic Modelling.
+* 🚀 **Core Competencies:** Finite Volume Simulation, Genetic Algorithms, and production-grade ML pipelines.
 
 ---
 
@@ -23,29 +23,29 @@ I am a **Ph.D. Researcher** and **Data Scientist** bridging the gap between theo
 | **Deep Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) |
 | **Data Science** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) |
 | **Visualization** | `Matplotlib` `Seaborn` `Power BI` `Data Storytelling` |
-| **Cloud & DevOps** | `AWS` `Google Cloud` `Docker` `Git` `Linux` |
 
 ---
 
 ### 📊 Featured Projects
 
 #### 1. [STEaM: Mine Shaft Thermal Energy Storage Simulation](https://github.com/winengewe/STEaM-MSTES-Model)
-**Renewable Energy Grid Balancing**
-* **The Solution:** Engineered a **Python-based finite volume simulation engine** to model thermodynamic stratification in legacy mine shafts.
+**Physics-Informed Simulation Engine**
+* **The Challenge:** Modeling thermodynamic stratification in legacy mine shafts to validate GigaWatt-hour thermal storage.
+* **The Engineering:** Built a **1D finite volume simulation engine** in Python from scratch.
 * **The Impact:** Generated critical **LCOH** and **COP** metrics, de-risking the conversion of industrial liabilities into renewable assets.
-* **Tech:** `Python` `NumPy` `Pandas` `SciPy` `Finite Volume Method`
+* **Tech:** `Python` `NumPy` `SciPy` `Finite Volume Method`
 
 #### 2. [Diamond Price Prediction: Deep ResNet-MLP](https://github.com/winengewe/diamond-price-resnet)
-**Automated Valuation Engine**
-* **The Solution:** Built a custom ResNet-MLP architecture using **TensorFlow/Keras** with residual skip connections and Log-Norm target engineering.
-* **The Impact:** Achieved **R² > 0.95**, creating a scalable solution for automated pricing inference.
+**High-Precision Asset Valuation**
+* **The Architecture:** Custom ResNet-MLP architecture using **TensorFlow/Keras** with residual skip connections and Log-Norm target engineering.
+* **The Result:** Achieved **R² > 0.95**, creating a scalable solution for complex non-linear pricing inference.
 * **Tech:** `TensorFlow` `Keras` `Deep Learning` `Feature Engineering`
 
 #### 3. [NHS Covid-19 Demand Modelling](https://github.com/winengewe/Covid19-ICU-Prediction-Analysis)
 **Public Sector Healthcare Analytics**
-* **The Solution:** Applied statistical modelling to patient intake data to forecast demand spikes for the **Scottish Government**.
-* **The Impact:** Provided data-driven insights to support critical resource planning.
+* **The Scope:** Rapid statistical modelling of patient intake data to forecast ICU demand spikes for the **Scottish Government**.
+* **The Impact:** Direct support for public health resource allocation.
 * **Tech:** `Python` `Scikit-Learn` `Predictive Modelling`
 
 ---
-[Get in touch via LinkedIn](https://www.linkedin.com/in/dr-ewe-win-eng-ph-d-b942571a6/) to discuss Data Science opportunities in Glasgow/UK.
+[Get in touch via LinkedIn](https://www.linkedin.com/in/dr-ewe-win-eng-ph-d-b942571a6/) to discuss Data Science or Quantitative Analysis opportunities in Glasgow.
