@@ -6,17 +6,17 @@
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=O1De6b8AAAAJ&hl)
 [![Global Talent Visa](https://img.shields.io/badge/UK_Global_Talent_Visa-Holder-informational?style=flat&color=blueviolet)](https://github.com/winengewe)
 
-### ⚛️ Energy Data Scientist | Deep Learning & Renewable Systems Specialist
+### ⚛️ Data Scientist | Machine Learning Engineer | Commercial AI Systems
 
-I am a **Glasgow-based Ph.D. Researcher** and **Data Scientist** bridging the gap between theoretical physics and commercial AI applications. My work focuses on **Physics-Informed Machine Learning**, utilizing **TensorFlow** and **LSTMs** to solve complex energy challenges.
+I am a **Glasgow-based Data Scientist** bridging the gap between deep mathematical rigor and commercial AI product development. I specialize in **Physics-Informed Machine Learning**, utilizing **TensorFlow** and **LSTMs** , and advanced statistical models to optimize complex systems and generate direct business value.
 
-- 👨‍💻 **Role:** Data Scientist, Machine Learning Engineer, AI Researcher.
-- 🧠 **Top Skills:** 🐍 Python, TensorFlow (Deep Learning), 📉 Time-Series Forecasting, Mathematical Modelling.
-- 🚀 **Business Value:** I don't just build models; I use **Physics-Informed ML** to optimize systems, reduce operational costs, and drive decarbonization.
-- 🔭 **Currently working on:** Integrating **Deep Learning** with Subsurface Thermal Energy Storage (STEaM) simulations to predict long-term thermal behavior.
+- 👨‍💻 **Role:** Data Scientist, Artificial Intelligence / Machine Learning Engineer.
+- 🚀 **Business Impact:** I build production-ready predictive models and simulations that optimize efficiency, automate valuation pipelines, and reduce operational costs.
+- 🧠 **Top Skills:** 🐍 Python, Deep Learning (TensorFlow/PyTorch), 📉 Time-Series Forecasting, and Automated ETL Pipelines.
 - ⚡ **Core Expertise:** Renewable Energy Systems, Thermodynamics, Systems Modelling, and Predictive Analytics.
+- 🔭 **Currently working on:** Integrating **Deep Learning** with Subsurface Thermal Energy Storage (STEaM) simulations to predict long-term thermal behavior.
 - 🤝 **Looking to collaborate on:** AI-driven energy decarbonization projects and predictive maintenance models.
-- 🇬🇧 **Status:** UK Global Talent Visa Holder (I can work for **any employer** immediately without sponsorship).
+- 🇬🇧 **Status:** Endorsed by the UK Government as an exceptional talent. **UK Global Talent Visa Holder** – I can work for **any employer** immediately without sponsorship.
 
 ---
 
@@ -30,7 +30,7 @@ I am a **Glasgow-based Ph.D. Researcher** and **Data Scientist** bridging the ga
 | **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
 | **Machine Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) |
 | **Visualization** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-77ACF1?style=flat&logo=seaborn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) |
-| **Research Domain** | `Time-Series Forecasting` `Thermodynamics` `Renewable Energy` `Deep Learning`  `Optimization` |
+| **Research Domain** | `Time-Series Forecasting` `Thermodynamics` `Renewable Energy` `Deep Learning`  `Optimization` `A/B Testing` `Regression` `Classification` |
 
 ---
 ### 📊 Featured Projects (Portfolio)
