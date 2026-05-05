@@ -62,3 +62,10 @@ I am a **Glasgow-based Data Scientist** bridging the gap between deep mathematic
 - **The Solution:** Applied statistical modelling to patient intake data to forecast demand spikes.
 - **The Impact:** Directly supported public health resource planning during a critical crisis.
 - **Stack:** `Python` `Scikit-Learn` `Data Analysis`
+
+#### 4. [NHS Covid-19 Demand Modelling](https://github.com/winengewe/energy-consumption-mlp)
+*Industry Application: Energy Sector & Predictive Analytics*
+- **The Challenge:** A fictional London energy company needed to accurately forecast the daily total electrical consumption of customers across different boroughs.
+- **The Solution:** Developed a deep learning pipeline that joined historical hourly energy usage with daily weather metrics, leveraging advanced feature engineering and a 7-stage data science lifecycle.
+- **The Impact:** Delivered highly accurate predictive insights for energy demand, translating complex mathematical results into clear, data-driven business recommendations.
+- **Stack:** `Python` `Scikit-Learn` `Data Analysis` `Deep Learning` `Pandas` `Data Visualisation` `Tensorflow`
